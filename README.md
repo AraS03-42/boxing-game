@@ -1,12 +1,12 @@
-# Boks-Oyunu
-Java Boks Oyunu
+# Boxing game
+Java Boxing game
 
 www.patika.dev
 
-Boks Maçı
+Box Match
 
-Java Sınıflar ile boks maçını simüle eden programı yazıyoruz.
+We are writing a program that simulates a boxing match with Java Classes.
 
-Ödev
+Homework
 
-Projeye ilk kimin dövüşe başlayacağını %50 olasılık ile hesaplayan sistemi entegre ediniz.
+Integrate the system that calculates who will start the fight first with 50% probability in the project.
